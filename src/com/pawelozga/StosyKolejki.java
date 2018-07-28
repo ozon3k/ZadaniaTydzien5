@@ -13,7 +13,7 @@ public class StosyKolejki {
         for (int i=0; i<slowo.length(); i++){
             stos.push(slowo.charAt(i));
         }
-        String slowo2 = new String();
+        String slowo2= new String();
 
 
         do {
